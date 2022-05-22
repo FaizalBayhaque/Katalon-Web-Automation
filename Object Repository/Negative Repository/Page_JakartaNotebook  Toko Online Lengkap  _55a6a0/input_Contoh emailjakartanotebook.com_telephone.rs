@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Contoh emailjakartanotebook.com_telephone</name>
+   <tag></tag>
+   <elementGuidId>cf076584-b51b-4334-a5cb-a187d9da43f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='telephone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;telephone&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>78518c9a-b1fa-4a74-b283-15634a28b53a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>telephone</value>
+      <webElementGuid>00a2d081-97c5-4a32-91d5-362a7a9aaa95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input___StyledInput-sc-1en4ex3-14 ezAWtV</value>
+      <webElementGuid>d0dd0a46-4259-4c05-ae8d-22974033f686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;AuthTemplate___StyledDiv6-sc-1req0pj-8 kPLZPU&quot;]/div[@class=&quot;AuthTemplate___StyledDiv7-sc-1req0pj-9 UEjqc&quot;]/div[@class=&quot;AuthPage___StyledDiv5-sc-8hlss4-18 kWXcso&quot;]/div[@class=&quot;AuthPage___StyledDiv7-sc-8hlss4-20 fSsHyV&quot;]/div[1]/form[1]/div[@class=&quot;RegisterForm___StyledDiv7-da6n5x-10 iaSDDP&quot;]/div[@class=&quot;Input___StyledDiv7-sc-1en4ex3-12 koNBaO&quot;]/div[@class=&quot;Input__StyledInput-sc-1en4ex3-3 cpMbPW&quot;]/input[@class=&quot;Input___StyledInput-sc-1en4ex3-14 ezAWtV&quot;]</value>
+      <webElementGuid>af50bf71-40f3-4878-b3a9-c1ba4eb2b35d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='telephone']</value>
+      <webElementGuid>31f88bb1-aeb2-45fc-9612-4a75a8f41fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/form/div[3]/div/div/input</value>
+      <webElementGuid>e7971dfc-b6ed-4b28-9c63-f6230c1042ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input</value>
+      <webElementGuid>f6c2d077-5d7c-407b-a657-529c49edaebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'telephone']</value>
+      <webElementGuid>9326be88-e8d0-40a7-bfa7-802045284a29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

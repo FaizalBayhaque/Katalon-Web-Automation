@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Lengkap_username</name>
+   <tag></tag>
+   <elementGuidId>d50941e7-5364-4abb-88ca-290b19eb259c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;username&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6b24dc37-6c57-4a03-9bcd-fc7b2b3e8372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>59e0ce4b-aa55-498e-ae1d-4b1dd513c427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input___StyledInput-sc-1en4ex3-14 ezAWtV</value>
+      <webElementGuid>10a31980-29e6-47e2-bf06-12d36384d5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;AuthTemplate___StyledDiv6-sc-1req0pj-8 kPLZPU&quot;]/div[@class=&quot;AuthTemplate___StyledDiv7-sc-1req0pj-9 UEjqc&quot;]/div[@class=&quot;AuthPage___StyledDiv5-sc-8hlss4-18 kWXcso&quot;]/div[@class=&quot;AuthPage___StyledDiv7-sc-8hlss4-20 fSsHyV&quot;]/div[1]/form[1]/div[@class=&quot;RegisterForm___StyledDiv6-da6n5x-9 gottxO&quot;]/div[@class=&quot;Input___StyledDiv7-sc-1en4ex3-12 koNBaO&quot;]/div[@class=&quot;Input__StyledInput-sc-1en4ex3-3 cpMbPW&quot;]/input[@class=&quot;Input___StyledInput-sc-1en4ex3-14 ezAWtV&quot;]</value>
+      <webElementGuid>05b1007c-1fd7-4c47-916c-81bdd2861ab6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='username']</value>
+      <webElementGuid>6b5bd2d2-e6b0-428b-8ace-37ae2c93efce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/form/div[2]/div/div/input</value>
+      <webElementGuid>4dcaf089-1368-4f4a-8f9d-facee8576d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>9738611e-baf7-4e98-86a4-d3831bc7916d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'username']</value>
+      <webElementGuid>cc205c1c-477b-40d0-a6d2-4601b92a8f50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

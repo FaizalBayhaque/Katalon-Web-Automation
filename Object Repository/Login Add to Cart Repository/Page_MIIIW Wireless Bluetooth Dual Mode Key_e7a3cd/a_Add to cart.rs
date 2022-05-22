@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add to cart</name>
+   <tag></tag>
+   <elementGuidId>a052215e-82eb-4927-9de1-189dc02b5118</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Add to cart')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.button--cta</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2edd22e3-b335-41c0-bbeb-c443d6398d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.jakartanotebook.com/transaction/add_to_cart/65532</value>
+      <webElementGuid>e3b5a210-5f51-495c-bd89-d13d85dc86f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--cta</value>
+      <webElementGuid>e04f6fcb-7d70-44e5-930b-2ce8299e38a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>137ce407-d33d-4c55-a0aa-697bc5ee8f90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy no-touch history rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent&quot;]/body[@class=&quot;page-body&quot;]/div[3]/div[@class=&quot;mainContent&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;detailHeader box&quot;]/div[@class=&quot;detailProductWrapper&quot;]/div[@class=&quot;detailPrice&quot;]/a[@class=&quot;button button--cta&quot;]</value>
+      <webElementGuid>8661b8be-cf3d-415f-a6d2-3777df9e735f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2bf7d49c-2337-44e8-993c-e4b4aa03cd81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.jakartanotebook.com/transaction/add_to_cart/65532</value>
+      <webElementGuid>72312b51-9e53-447b-b066-c9d6cc2188bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--cta</value>
+      <webElementGuid>21666015-7a08-45ee-b96e-097042c8c512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>32005952-fd55-458b-ad3b-dd80db96e241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy no-touch history rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent&quot;]/body[@class=&quot;page-body&quot;]/div[3]/div[@class=&quot;mainContent&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;detailHeader box&quot;]/div[@class=&quot;detailProductWrapper&quot;]/div[@class=&quot;detailPrice&quot;]/a[@class=&quot;button button--cta&quot;]</value>
+      <webElementGuid>17bfda8e-a152-48fc-859d-908de6cabbe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d387f4a-ccc9-4c58-9abf-89df4ea81539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.jakartanotebook.com/transaction/add_to_cart/65532</value>
+      <webElementGuid>b684e668-5a74-40a8-9dc1-211c5445a643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--cta</value>
+      <webElementGuid>c55a698b-6edb-4114-a418-45ad51eb0af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>130913e0-58c0-43a9-86da-292002fa5dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy no-touch history rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent&quot;]/body[@class=&quot;page-body&quot;]/div[3]/div[@class=&quot;mainContent&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;detailHeader box&quot;]/div[@class=&quot;detailProductWrapper&quot;]/div[@class=&quot;detailPrice&quot;]/a[@class=&quot;button button--cta&quot;]</value>
+      <webElementGuid>a276b6a1-59a3-4862-a760-2bb2aef3ab21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add to cart')]</value>
+      <webElementGuid>91469993-12b6-4277-9b8d-3385d909c832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hemat Rp. 77.300,- (15%)'])[1]/following::a[1]</value>
+      <webElementGuid>75b4c3f2-f420-4944-af4d-42437e9cae38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan ke Watchlist'])[1]/preceding::a[1]</value>
+      <webElementGuid>a88d05da-b8af-4143-941f-46a543ad316a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to cart']/parent::*</value>
+      <webElementGuid>8d2a24eb-579d-4148-81d1-43ee4f44b89e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.jakartanotebook.com/transaction/add_to_cart/65532')]</value>
+      <webElementGuid>3e39d63f-a9cb-476b-85d4-6302b7c271cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div[3]/a</value>
+      <webElementGuid>933e75c1-44e7-4bd9-86ad-b57aec73c03a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.jakartanotebook.com/transaction/add_to_cart/65532' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>0b3e9afe-0c28-499b-a8cd-6d7e7f7d43be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

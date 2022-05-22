@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Kategori_key (1)</name>
+   <tag></tag>
+   <elementGuidId>b6349c46-33a8-444f-8f22-3d4a8025ed60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;key&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='key']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6362ea8f-ac1b-413f-85a7-7978ed356986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>key</value>
+      <webElementGuid>070c5aef-0a50-4f39-9b8c-12518204f832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Xiaomi Gaming Monitor</value>
+      <webElementGuid>362785d3-fcd2-4a41-82be-442be05285d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input___StyledInput-sc-1en4ex3-14 iBceOH</value>
+      <webElementGuid>01cee799-8d09-42ff-b26d-69453ebecd22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;fresnel-container fresnel-greaterThanOrEqual-sm Header___StyledMedia-y4d4ki-39 eRNBMj&quot;]/header[@class=&quot;Header___StyledHeader-y4d4ki-40 eCJwfa&quot;]/div[@class=&quot;Header___StyledDiv20-y4d4ki-41 iIUSWJ&quot;]/div[@class=&quot;Header___StyledDiv21-y4d4ki-42 fwlHyX&quot;]/div[@class=&quot;Header___StyledDiv24-y4d4ki-45 iotksB&quot;]/div[@class=&quot;fresnel-container fresnel-greaterThanOrEqual-sm&quot;]/div[1]/form[1]/div[@class=&quot;SearchSection___StyledDiv-rs4tda-5 byResk&quot;]/div[@class=&quot;Input___StyledDiv7-sc-1en4ex3-12 koNBaO&quot;]/div[@class=&quot;Input__StyledInput-sc-1en4ex3-3 dnjqkY&quot;]/input[@class=&quot;Input___StyledInput-sc-1en4ex3-14 iBceOH&quot;]</value>
+      <webElementGuid>aae17485-9f63-43f4-bb3f-de56bf2a1975</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='key']</value>
+      <webElementGuid>9e287c81-3209-447b-aa6d-00968d16d1e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div[4]/header/div/div/div[2]/div[2]/div/form/div/div/div/input</value>
+      <webElementGuid>ab5e9aa8-e6b6-4165-9a2b-4530f2cd9fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>b16d712c-fe8b-4d3c-abab-1bcb9a5d751e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'key' and @placeholder = 'Xiaomi Gaming Monitor']</value>
+      <webElementGuid>fc79a5f0-97c9-4e9b-84b7-b3c9050a32e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

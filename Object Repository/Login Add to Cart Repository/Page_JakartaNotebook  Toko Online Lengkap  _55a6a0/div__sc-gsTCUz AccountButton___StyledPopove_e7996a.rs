@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__sc-gsTCUz AccountButton___StyledPopove_e7996a</name>
+   <tag></tag>
+   <elementGuidId>3a57ba4a-edc1-4361-bcea-1fa3fa9f2f5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-portal-root']/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-gsTCUz.AccountButton___StyledPopoverOverlay-z1mr5z-21.bhdLno.bNNpJF</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4601c06f-304e-487b-ae0c-0663ac6a3d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-gsTCUz AccountButton___StyledPopoverOverlay-z1mr5z-21 bhdLno bNNpJF</value>
+      <webElementGuid>8e71577c-301a-4106-8f6b-b6c97c33235b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-portal-root&quot;)/div[5]/div[@class=&quot;sc-gsTCUz AccountButton___StyledPopoverOverlay-z1mr5z-21 bhdLno bNNpJF&quot;]</value>
+      <webElementGuid>10a3f09b-9918-4f3d-8345-1758b3a92b3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-portal-root']/div[5]/div</value>
+      <webElementGuid>71f0b0d4-8bef-4072-8cfb-1f11fb7e4b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[5]/div</value>
+      <webElementGuid>ea135052-af76-4fe7-a88e-01ab48b331c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

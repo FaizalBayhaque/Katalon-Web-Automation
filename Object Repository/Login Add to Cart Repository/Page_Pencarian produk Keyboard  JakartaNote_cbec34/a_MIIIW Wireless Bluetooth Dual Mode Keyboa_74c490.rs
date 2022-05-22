@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MIIIW Wireless Bluetooth Dual Mode Keyboa_74c490</name>
+   <tag></tag>
+   <elementGuidId>ccff823e-c5ac-49ef-bf2b-2bb9be86bb2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='XOKY03PN'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f5ea178-01d1-46db-9a5e-a4ad013246f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.jakartanotebook.com/miiiw-wireless-bluetooth-dual-mode-keyboard-104-keys-2.4ghz-mwbk01-pink</value>
+      <webElementGuid>b8d4f659-60bd-41aa-bb90-6499a71eeedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>MIIIW Wireless Bluetooth Dual Mode Keyboard 104 Keys 2.4GHz - MWBK01 - Pink</value>
+      <webElementGuid>08c66e9d-57a2-4465-9ce1-53582e86cbb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-list__title</value>
+      <webElementGuid>62f9dc23-39ed-4ad4-a80f-4bf7aadfdd39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MIIIW Wireless Bluetooth Dual Mode Keyboard 104 Keys 2.4GHz - MWBK01 - Pink</value>
+      <webElementGuid>532c5234-ff91-45fd-95b9-7a4bcb106ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy no-touch history rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent&quot;]/body[@class=&quot;page-body&quot;]/div[3]/div[@class=&quot;mainContent&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product-list-wrapper&quot;]/div[@class=&quot;product-list&quot;]/div[@class=&quot;product-list__header&quot;]/a[@class=&quot;product-list__title&quot;]</value>
+      <webElementGuid>d40f4cdd-df7e-4676-9c1c-0fab85af2e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8866e4b1-7441-4e49-a2e3-9a54bca711ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.jakartanotebook.com/miiiw-wireless-bluetooth-dual-mode-keyboard-104-keys-2.4ghz-mwbk01-pink</value>
+      <webElementGuid>51407b39-fbc5-4dcb-8494-1d1f99829969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>MIIIW Wireless Bluetooth Dual Mode Keyboard 104 Keys 2.4GHz - MWBK01 - Pink</value>
+      <webElementGuid>eed4e9b3-ddb1-48a0-bac5-0eaa509c06b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-list__title</value>
+      <webElementGuid>768a4f18-a779-4e13-aed7-0214be24f248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MIIIW Wireless Bluetooth Dual Mode Keyboard 104 Keys 2.4GHz - MWBK01 - Pink</value>
+      <webElementGuid>84c98061-d978-4ff6-807f-bf2b2b07f239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy no-touch history rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent&quot;]/body[@class=&quot;page-body&quot;]/div[3]/div[@class=&quot;mainContent&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product-list-wrapper&quot;]/div[@class=&quot;product-list&quot;]/div[@class=&quot;product-list__header&quot;]/a[@class=&quot;product-list__title&quot;]</value>
+      <webElementGuid>5f14938f-7358-414c-9f53-6bcd4449828d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XOKY03PN'])[1]/following::a[1]</value>
+      <webElementGuid>5dff18a3-1ec5-4a2d-a961-beae7f0a1c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 550.000'])[1]/preceding::a[2]</value>
+      <webElementGuid>2ab6ba56-f49b-4aa1-bb7e-0ddd451a52b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MIIIW Wireless Bluetooth Dual Mode']/parent::*</value>
+      <webElementGuid>12230db2-f6a4-4786-b461-fffdeb58bc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.jakartanotebook.com/miiiw-wireless-bluetooth-dual-mode-keyboard-104-keys-2.4ghz-mwbk01-pink')]</value>
+      <webElementGuid>67bab8dc-3b8c-46d1-a8a3-c2e285af320b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/a</value>
+      <webElementGuid>12074640-bad9-4f64-8a6d-bd34bfd94afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.jakartanotebook.com/miiiw-wireless-bluetooth-dual-mode-keyboard-104-keys-2.4ghz-mwbk01-pink' and @title = 'MIIIW Wireless Bluetooth Dual Mode Keyboard 104 Keys 2.4GHz - MWBK01 - Pink' and (text() = 'MIIIW Wireless Bluetooth Dual Mode Keyboard 104 Keys 2.4GHz - MWBK01 - Pink' or . = 'MIIIW Wireless Bluetooth Dual Mode Keyboard 104 Keys 2.4GHz - MWBK01 - Pink')]</value>
+      <webElementGuid>7723299f-0c84-4df9-9d50-f33f00805d6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

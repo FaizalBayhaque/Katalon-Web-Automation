@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pengiriman via Sicepat dan JNE_fa fa-circle-o</name>
+   <tag></tag>
+   <elementGuidId>e66687a7-9e2c-4dac-b340-c5c98acb42e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='cart-form']/div/div[3]/div/div/div/div/div/div[2]/label/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-circle-o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>121dbab7-edc6-42ee-8379-59c020851183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>8e655ae0-8302-4010-b4bb-68c309ac1350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-form&quot;)/div[@class=&quot;cart&quot;]/div[@class=&quot;cart__action__container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;cart__action&quot;]/div[@class=&quot;form--cart&quot;]/div[@class=&quot;cart__dv__wrapper&quot;]/div[@class=&quot;cart__dv__block cart__dv--online&quot;]/div[@class=&quot;cart__dv__content&quot;]/label[@class=&quot;cart__dv__list&quot;]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>351b832e-b621-4d34-9bb2-8f9f672095e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cart-form']/div/div[3]/div/div/div/div/div/div[2]/label/i[2]</value>
+      <webElementGuid>51fa520c-84bb-404a-9725-5466175941bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>839310df-ec84-4c3f-be6c-bc836c335beb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

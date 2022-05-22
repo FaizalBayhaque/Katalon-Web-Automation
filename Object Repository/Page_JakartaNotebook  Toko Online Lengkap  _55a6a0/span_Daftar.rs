@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Daftar</name>
+   <tag></tag>
+   <elementGuidId>21200dc1-2846-44fc-8d65-5ee01643a70f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-6']/div[2]/div/div/div/div/div[2]/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.LoginForm___StyledSpan3-v7mguz-6.eLZPSh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27e8b910-5ea9-404e-a629-d9ef28021ca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LoginForm___StyledSpan3-v7mguz-6 eLZPSh</value>
+      <webElementGuid>43fd323c-1882-4a89-9262-594b08478242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar </value>
+      <webElementGuid>58c5a2ee-b43a-4312-b693-c52bc9f6278d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-6&quot;)/div[@class=&quot;AuthService___StyledDiv-eztrj2-1 hEFEDD&quot;]/div[@class=&quot;AuthService___StyledDiv2-eztrj2-2 fUoFRe&quot;]/div[@class=&quot;Paper___StyledDiv-sc-1ow4efr-0 huGXsB AuthService___StyledPaper-eztrj2-3 byJlRI&quot;]/div[@class=&quot;LoginForm___StyledDiv-v7mguz-0 hcctiv&quot;]/div[@class=&quot;LoginForm___StyledDiv2-v7mguz-1 dHfnlQ&quot;]/div[@class=&quot;LoginForm___StyledDiv4-v7mguz-3 hjdvus&quot;]/span[@class=&quot;LoginForm___StyledSpan-v7mguz-4 gHTPSw&quot;]/a[@class=&quot;sc-pFZIQ gbgfMs&quot;]/span[@class=&quot;LoginForm___StyledSpan3-v7mguz-6 eLZPSh&quot;]</value>
+      <webElementGuid>a54c8e9c-6271-4807-a73e-534c78ef4ce4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-6']/div[2]/div/div/div/div/div[2]/span/a/span</value>
+      <webElementGuid>e45019a5-660d-4ec8-83c6-a8dc367df724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum punya akun?'])[1]/following::span[1]</value>
+      <webElementGuid>af16bb94-05f8-4f73-a0fa-b79e8eb37a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::span[3]</value>
+      <webElementGuid>1afbce7c-adc5-4377-8b8f-d9c53ca1a950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::span[2]</value>
+      <webElementGuid>aa67833d-0486-4241-8504-df5e0900a611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/preceding::span[5]</value>
+      <webElementGuid>305becdb-ba1a-4e14-bdc7-5e67d56663b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>aed12609-87c5-4694-994f-691474c92c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/span</value>
+      <webElementGuid>80a34bb3-a911-4ccf-ba0d-6f56a3e7ca2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Daftar ' or . = 'Daftar ')]</value>
+      <webElementGuid>f2c1c06b-9cd3-40f6-a14d-cf6b74281f4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

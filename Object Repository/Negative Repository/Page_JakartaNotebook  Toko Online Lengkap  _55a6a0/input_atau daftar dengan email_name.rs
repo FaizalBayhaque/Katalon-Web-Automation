@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_atau daftar dengan email_name</name>
+   <tag></tag>
+   <elementGuidId>65f638ba-b115-4ac2-9152-5c1e07ffc3b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e04dfbcf-e15b-4b46-a0ef-a0f3a90b1114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>b3f17513-0e99-49ae-b9f0-ac99e688bd0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input___StyledInput-sc-1en4ex3-14 ezAWtV</value>
+      <webElementGuid>68dadeec-6543-4e24-82bc-444edca44308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;AuthTemplate___StyledDiv6-sc-1req0pj-8 kPLZPU&quot;]/div[@class=&quot;AuthTemplate___StyledDiv7-sc-1req0pj-9 UEjqc&quot;]/div[@class=&quot;AuthPage___StyledDiv5-sc-8hlss4-18 kWXcso&quot;]/div[@class=&quot;AuthPage___StyledDiv7-sc-8hlss4-20 fSsHyV&quot;]/div[1]/form[1]/div[@class=&quot;RegisterForm___StyledDiv5-da6n5x-8 hPJWwU&quot;]/div[@class=&quot;Input___StyledDiv7-sc-1en4ex3-12 koNBaO&quot;]/div[@class=&quot;Input__StyledInput-sc-1en4ex3-3 cpMbPW&quot;]/input[@class=&quot;Input___StyledInput-sc-1en4ex3-14 ezAWtV&quot;]</value>
+      <webElementGuid>03937ffe-162f-41cc-a983-a4a21aa5dc05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='name']</value>
+      <webElementGuid>b6ff6656-63ef-4f56-b7cc-6291b7d89185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/form/div/div/div/input</value>
+      <webElementGuid>2e6e222a-9328-4a07-9f21-ffeeb08c4444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>e2de39ca-6919-4441-af2d-34c9f0eba7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'name']</value>
+      <webElementGuid>5455f8e7-0e50-4de8-b572-41bb228bb5c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

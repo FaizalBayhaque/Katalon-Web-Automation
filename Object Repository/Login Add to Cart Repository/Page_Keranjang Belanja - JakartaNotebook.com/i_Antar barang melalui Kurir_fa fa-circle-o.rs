@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Antar barang melalui Kurir_fa fa-circle-o</name>
+   <tag></tag>
+   <elementGuidId>99eb2ecf-8afc-4a13-b72b-d0a92e0e9f69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cart__dv__block.cart__dv--cod > div.cart__dv__content > label.cart__dv__list > i.fa.fa-circle-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='cart-form']/div/div[3]/div/div/div/div/div[2]/div[2]/label/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6edf72fd-ea6b-4fb2-b83f-b4a5d1801dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>d1443c87-4251-422b-91c5-7f379af985c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-form&quot;)/div[@class=&quot;cart&quot;]/div[@class=&quot;cart__action__container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;cart__action&quot;]/div[@class=&quot;form--cart&quot;]/div[@class=&quot;cart__dv__wrapper&quot;]/div[@class=&quot;cart__dv__block cart__dv--cod&quot;]/div[@class=&quot;cart__dv__content&quot;]/label[@class=&quot;cart__dv__list&quot;]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>92fb3792-8d17-45b4-8dfe-976a4e541894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1b94b59c-78f1-423e-960a-d0e17c8872af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>45a60b92-7357-4413-8cd6-361a689f7958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-form&quot;)/div[@class=&quot;cart&quot;]/div[@class=&quot;cart__action__container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;cart__action&quot;]/div[@class=&quot;form--cart&quot;]/div[@class=&quot;cart__dv__wrapper&quot;]/div[@class=&quot;cart__dv__block cart__dv--cod&quot;]/div[@class=&quot;cart__dv__content&quot;]/label[@class=&quot;cart__dv__list&quot;]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>3e2d71c3-7f45-419c-bfcf-afdf51cf3e8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cart-form']/div/div[3]/div/div/div/div/div[2]/div[2]/label/i[2]</value>
+      <webElementGuid>9b0877e6-b1ad-4a5c-9bfd-9e73e5ac1757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/label/i[2]</value>
+      <webElementGuid>71c248e0-bdd6-401d-97e5-d27cd9230c87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
