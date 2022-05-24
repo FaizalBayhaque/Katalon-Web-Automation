@@ -6,16 +6,64 @@
    <elementGuidId>897c70bf-4bdb-49bc-8353-2d098eff8018</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='cart-form']/div/div[3]/div/div/div/div/div[2]/div[2]/label/i[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.cart__dv__block.cart__dv--cod > div.cart__dv__content > label.cart__dv__list > i.fa.fa-circle-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='cart-form']/div/div[3]/div/div/div/div/div[2]/div[2]/label/i[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3cbbe4a8-02b4-4e58-811f-32e2e54f9341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>403f995d-ca1b-441b-a8fc-f638a5d45688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-form&quot;)/div[@class=&quot;cart&quot;]/div[@class=&quot;cart__action__container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;cart__action&quot;]/div[@class=&quot;form--cart&quot;]/div[@class=&quot;cart__dv__wrapper&quot;]/div[@class=&quot;cart__dv__block cart__dv--cod&quot;]/div[@class=&quot;cart__dv__content&quot;]/label[@class=&quot;cart__dv__list&quot;]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>3f2de761-579f-44ae-8f33-8b2755798044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c692be76-c563-49af-8f0f-97e97c66b0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>342844da-ceac-4c6d-ac34-e9c23e6fb80d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-form&quot;)/div[@class=&quot;cart&quot;]/div[@class=&quot;cart__action__container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;cart__action&quot;]/div[@class=&quot;form--cart&quot;]/div[@class=&quot;cart__dv__wrapper&quot;]/div[@class=&quot;cart__dv__block cart__dv--cod&quot;]/div[@class=&quot;cart__dv__content&quot;]/label[@class=&quot;cart__dv__list&quot;]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>c7240af6-b90d-42fb-a261-5e590530ca8c</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +81,7 @@
       <webElementGuid>ad8fd540-845c-432c-aa4f-3c12f0d264dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='cart-form']/div/div[3]/div/div/div/div/div[2]/div[2]/label/i[2]</value>
-      <webElementGuid>ab64a74a-cfe1-46d9-ae59-7c8bd4569565</webElementGuid>
+      <webElementGuid>652b276d-afca-429c-89bc-326d8dd8aec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +102,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/label/i[2]</value>
-      <webElementGuid>69103b82-3dc2-489f-b48d-8e48b3933342</webElementGuid>
+      <webElementGuid>34115fb2-9104-46fa-8cb6-bbf37f193e9b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

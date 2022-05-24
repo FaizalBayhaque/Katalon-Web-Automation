@@ -6,12 +6,12 @@
    <elementGuidId>024a1ba8-56c4-461f-8603-c998a40ee622</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='key']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;key&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='key']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5a73386e-8742-48fb-8b56-4a284fd258f5</webElementGuid>
+      <webElementGuid>cb6fa56d-4fdd-445e-9d53-7d799799acb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,90 @@
       <name>name</name>
       <type>Main</type>
       <value>key</value>
-      <webElementGuid>0f1294d2-38be-4a3d-affa-a73131abd76f</webElementGuid>
+      <webElementGuid>6b8ec8f9-e611-4d65-bf1f-9f13a0bab716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Xiaomi Gaming Monitor</value>
+      <webElementGuid>9e0bea56-0161-46e8-b214-11e84fe57c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input___StyledInput-sc-1en4ex3-14 iBceOH</value>
+      <webElementGuid>f0a69332-d34a-49f7-809d-c6ef13269d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;fresnel-container fresnel-greaterThanOrEqual-sm Header___StyledMedia-y4d4ki-39 eRNBMj&quot;]/header[@class=&quot;Header___StyledHeader-y4d4ki-40 eCJwfa&quot;]/div[@class=&quot;Header___StyledDiv20-y4d4ki-41 iIUSWJ&quot;]/div[@class=&quot;Header___StyledDiv21-y4d4ki-42 fwlHyX&quot;]/div[@class=&quot;Header___StyledDiv24-y4d4ki-45 iotksB&quot;]/div[@class=&quot;fresnel-container fresnel-greaterThanOrEqual-sm&quot;]/div[1]/form[1]/div[@class=&quot;SearchSection___StyledDiv-rs4tda-5 byResk&quot;]/div[@class=&quot;Input___StyledDiv7-sc-1en4ex3-12 koNBaO&quot;]/div[@class=&quot;Input__StyledInput-sc-1en4ex3-3 dnjqkY&quot;]/input[@class=&quot;Input___StyledInput-sc-1en4ex3-14 iBceOH&quot;]</value>
+      <webElementGuid>c7ee0735-5a9b-4732-b982-93b6989f48c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9fad36b2-2745-45e4-b1ee-fdda7303cf94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>key</value>
+      <webElementGuid>53af96a8-80f5-49a4-a86d-822b61960419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Xiaomi Gaming Monitor</value>
+      <webElementGuid>4750fe26-5a97-4c49-9c41-6c5880c7ba56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input___StyledInput-sc-1en4ex3-14 iBceOH</value>
+      <webElementGuid>8ed1cb58-540e-4cb9-a1ad-e3eb59bcabe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;fresnel-container fresnel-greaterThanOrEqual-sm Header___StyledMedia-y4d4ki-39 eRNBMj&quot;]/header[@class=&quot;Header___StyledHeader-y4d4ki-40 eCJwfa&quot;]/div[@class=&quot;Header___StyledDiv20-y4d4ki-41 iIUSWJ&quot;]/div[@class=&quot;Header___StyledDiv21-y4d4ki-42 fwlHyX&quot;]/div[@class=&quot;Header___StyledDiv24-y4d4ki-45 iotksB&quot;]/div[@class=&quot;fresnel-container fresnel-greaterThanOrEqual-sm&quot;]/div[1]/form[1]/div[@class=&quot;SearchSection___StyledDiv-rs4tda-5 byResk&quot;]/div[@class=&quot;Input___StyledDiv7-sc-1en4ex3-12 koNBaO&quot;]/div[@class=&quot;Input__StyledInput-sc-1en4ex3-3 dnjqkY&quot;]/input[@class=&quot;Input___StyledInput-sc-1en4ex3-14 iBceOH&quot;]</value>
+      <webElementGuid>72389268-8975-4d03-a954-83a5598fdb0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5a73386e-8742-48fb-8b56-4a284fd258f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>key</value>
+      <webElementGuid>0f1294d2-38be-4a3d-affa-a73131abd76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -62,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='key']</value>
-      <webElementGuid>c00f9394-ab3a-477b-888b-469e01fd6d80</webElementGuid>
+      <webElementGuid>b209b284-23c4-477e-bf6a-f11feb9fd8bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header']/div[4]/header/div/div/div[2]/div[2]/div/form/div/div/div/input</value>
-      <webElementGuid>2daf4ab7-13cd-4480-9e6e-3ed40dd300a6</webElementGuid>
+      <webElementGuid>2a215167-b84b-42d8-97f2-fd35223d1205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>1d9425aa-0993-4155-9bae-a28fe7121fa6</webElementGuid>
+      <webElementGuid>d30c8b52-0be9-43c6-967e-9bc70442ef85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'key' and @placeholder = 'Xiaomi Gaming Monitor']</value>
-      <webElementGuid>0d849991-d982-4a24-aa74-27e9a18204df</webElementGuid>
+      <webElementGuid>08a681d9-33b4-4dd2-9576-e10374aab6e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

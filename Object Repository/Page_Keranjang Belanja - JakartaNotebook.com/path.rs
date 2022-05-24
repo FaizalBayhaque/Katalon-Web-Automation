@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>28e424b0-87eb-4004-a550-1b0ef2d063e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.Icon___StyledSvg-rhuc26-0.dpbOWU.AuthService___StyledCloseIcon-eztrj2-5.bKbtHF > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>4cbd34a4-94c7-4b4e-b920-3c7d39029302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z</value>
+      <webElementGuid>c2c9f39b-501a-473f-9919-acab665ec01f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-6&quot;)/div[@class=&quot;AuthService___StyledDiv-eztrj2-1 hEFEDD&quot;]/div[@class=&quot;AuthService___StyledDiv2-eztrj2-2 fUoFRe&quot;]/div[@class=&quot;Paper___StyledDiv-sc-1ow4efr-0 huGXsB AuthService___StyledPaper-eztrj2-3 byJlRI&quot;]/button[@class=&quot;Button__StyledButton-sc-1l0qx1m-2 ieGcCN AuthService___StyledButton-eztrj2-4 heNMvf&quot;]/svg[@class=&quot;Icon___StyledSvg-rhuc26-0 dpbOWU AuthService___StyledCloseIcon-eztrj2-5 bKbtHF&quot;]/path[1]</value>
+      <webElementGuid>9b7145bb-6b4a-4cab-9e0b-9cc169cff335</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -12,31 +12,24 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>de51da21-8f81-46dc-8a79-7a88589fe95d</testSuiteGuid>
    <testCaseLink>
-      <guid>5477fd87-3c5f-4aff-9f7d-3ac8d8a45a55</guid>
+      <guid>d4c804ac-cec5-4e33-9013-ca89aa0e3733</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add To Cart no Login</testCaseId>
+      <testCaseId>Test Cases/User Add Item To Cart Without Login or Register</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1b13efa8-38f0-4ea8-9622-164721ec1a32</guid>
+      <guid>29f63451-a395-481e-be93-d140b4f8d64d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login and Add to Cart</testCaseId>
+      <testCaseId>Test Cases/User Register with Correct Credentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>749f019c-f6aa-47db-8604-9d15a99a3e07</guid>
+      <guid>21de452d-986a-4e32-8e4a-4192c11290f4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e6dd0fed-03fc-4288-9afe-e6d193bafc57</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Register</testCaseId>
+      <testCaseId>Test Cases/User Login with Correct Credentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

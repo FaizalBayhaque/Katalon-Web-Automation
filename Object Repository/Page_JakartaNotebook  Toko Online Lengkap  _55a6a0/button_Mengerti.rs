@@ -6,16 +6,176 @@
    <elementGuidId>5e8f75aa-bd43-4753-bc70-6ae8da0548d8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='headlessui-popover-panel-2']/div/div[2]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.SelectBranchButton___StyledDiv3-sc-1oov5eu-5.epIuzd > button.Button__StyledButton-sc-1l0qx1m-2.ieGcCN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-popover-panel-2']/div/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ef312dcc-f861-40cf-90b7-ef2d3435ea4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>fe0896e3-a0a2-41c6-aaeb-e0b40933c494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-size</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>5722e079-8870-4aab-add4-9ae5d882dc1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-variant</name>
+      <type>Main</type>
+      <value>outlined</value>
+      <webElementGuid>7b1645a4-6060-4170-8461-25e3069b4128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>88ee772b-25ef-4c12-971d-ca0a0958df8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon-square</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>03042285-2caa-4f86-978a-7511c40b6672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loading</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>61161e12-85cd-4081-9525-a8ca9c2b0ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button__StyledButton-sc-1l0qx1m-2 ieGcCN</value>
+      <webElementGuid>255de0f4-ad8c-4538-8a1b-00dea1f855ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mengerti</value>
+      <webElementGuid>97a5238d-de17-41ee-bf3d-10a69c76c4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-panel-2&quot;)/div[@class=&quot;SelectBranchButton___StyledDiv2-sc-1oov5eu-4 kVtwDZ&quot;]/div[@class=&quot;SelectBranchButton___StyledDiv3-sc-1oov5eu-5 epIuzd&quot;]/button[@class=&quot;Button__StyledButton-sc-1l0qx1m-2 ieGcCN&quot;]</value>
+      <webElementGuid>d0293533-8b83-4520-9e61-f32ad41185a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d5d53fa-d62c-4bc7-ab97-f1a835c25226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>2663abf8-10bb-4911-a5b6-77f2d6dd597e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-size</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>7803ca49-5a34-46a8-a32b-db1b9cfdd8fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-variant</name>
+      <type>Main</type>
+      <value>outlined</value>
+      <webElementGuid>fe9ad6f8-60e9-4ad3-9ffc-3cbc52469983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>14ca4da0-1ada-4dcf-a7b5-f617a6e71ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon-square</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f35642f4-93bd-4e6f-a090-3f4b593322b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loading</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ed6a2247-fb11-4d64-ac8e-1c145aa2553d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button__StyledButton-sc-1l0qx1m-2 ieGcCN</value>
+      <webElementGuid>6344d655-c281-4a66-887c-1cf04c1164f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mengerti</value>
+      <webElementGuid>a674f41c-32e9-4c5e-81ff-bf80fbe46e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-panel-2&quot;)/div[@class=&quot;SelectBranchButton___StyledDiv2-sc-1oov5eu-4 kVtwDZ&quot;]/div[@class=&quot;SelectBranchButton___StyledDiv3-sc-1oov5eu-5 epIuzd&quot;]/button[@class=&quot;Button__StyledButton-sc-1l0qx1m-2 ieGcCN&quot;]</value>
+      <webElementGuid>a17c5e00-037d-4f25-89e2-2a49f5f111cd</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -81,7 +241,7 @@
       <webElementGuid>b53c3f4b-15d5-4fda-a13b-d4496cb0dd67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -182,7 +342,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-popover-panel-2']/div/div[2]/button</value>
-      <webElementGuid>205d96b2-1964-42c5-8a88-d5387f34eca7</webElementGuid>
+      <webElementGuid>4d86cb70-536b-4f1d-a1aa-7175952f84df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +350,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='‚'])[1]/following::button[1]</value>
-      <webElementGuid>039e79e2-94f1-4762-a1c8-97d944b00c2d</webElementGuid>
+      <webElementGuid>cd87c19f-dc34-498c-871a-502bfe564df7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +358,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/button</value>
-      <webElementGuid>4574f568-5099-4cee-9fec-7c2fd6792c92</webElementGuid>
+      <webElementGuid>449d7a74-6002-46e6-913b-b05f00c6007a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,6 +366,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Mengerti' or . = 'Mengerti')]</value>
-      <webElementGuid>c7376a97-d693-4a76-af45-e4df0c609a97</webElementGuid>
+      <webElementGuid>f3164e1c-7196-44f4-93fa-9326e12f1e54</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
