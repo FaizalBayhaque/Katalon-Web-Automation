@@ -7,71 +7,77 @@ Feature that I test in this case is Registration, Login, Adding item to the cart
 
 Positive Test
 
-* User register with correct credentials
+* User Add Item To Cart Without Login or Register
 
-* User login with correct credentials
+* User Login with Correct Credentials
 
-* User add item to cart without doing register or login
+* User Register with Correct Credentials
 
 Negative Test
 
-* User login with incorrect email and incorrect password
+* User Login with Correct Form of Email but Incorrect Form of Password
 
-* User login with correct mail but with incorrect password
+* User Login with Incorrect Form of Email but Correct Form of Password
 
-* User login with incorrect email but with correct password
+* User Login without Filling Form
 
-* User login with both email and password form empty
+* User Register with Incorrect Form of Email
 
-* User register with valid credentials but with incorrect password format
+* User Register with Incorrect Form of Password
 
-* User register with invalid credentials but with correc password format
+* User Register with Incorrect Form of Phone Number
 
 ## Getting Started
 
-To check or run each task on /src there are 2 folders. main/java and test/java/webautomation
+To check or run each task on Test Cases or Test Suites you can simply click file from Katalon on the toolbar and click Open Project then choose where you place the file :
 
-on main/java folder you can access :
+On Test Cases folder you can access :
 
-* HardWaitUtils
+* User Add Item To Cart Without Login or Register
 
-on test/java/web automation folder you can access :
+- User Login with Correct Credentials
 
-* Add To Cart Without Register Test
-* Base Web Test
-* Base Web Test Headless
-* Login Negative Test
-* Login Positive Test
-* Registration Negative Test
-* Registration Positive Test
+- User Login with Correct Form of Email but Incorrect Form of Password
+
+- User Login with Incorrect Form of Email but Correct Form of Password
+
+- User Login without Filling Form
+
+- User Register with Correct Credentials
+
+- User Register with Incorrect Form of Email
+
+- User Register with Incorrect Form of Password
+
+- User Register with Incorrect Form of Phone Number
+
+On Test Suite folder you can access :
+
+- Negative Test Suite
+ 
+- Positive Test Suite
+ 
+- Test Suite Collection
 
 ## Prerequisite
 
-To run this repo, make sure you have maven, selenium, testNg has installed in your machine. This repo works best in Eclipse IDE
+To run this repo, make sure you have Katalon Web Studio installed in your machine. This repo works best in Katalon Web Studio
 
 ## Running the tests
 to run the test here are the steps :
 
-* go to test/java/web automation folder
+* go to Test Case
 
-* click the package that you want to choose. (ex: Login Positive Test)
+* click the test case that you want to choose. (ex: User Register with Correct Credentials)
 
-* click right on the class LoginPositiveTest.java
-
-* choose Run As
-
-* click TestNG Test
+* click Run on the toolbar or you can simply press Ctrl + Shift + A
 
 # Disclaimer
 
-To run this test all in one time you can click right on the class testsuite.xml and choose Run As then click TestNG Test
+To run this test all in one time you can simply go to Test Suites folder and choose Test Suite Collection then click execute
 
 ## Built With
-* [Maven](https://maven.apache.org/) - Dependency Management
-
-* [Selenium](https://www.selenium.dev/) - Used to automate web testing
-
-* [TestNG](https://testng.org/) - Test Management
+* [Katalon](https://katalon.com/) - Automated Testing Software
 
 ## Authors
 
