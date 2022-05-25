@@ -74,7 +74,7 @@ to run the test here are the steps :
 
 # Disclaimer
 
-To run this test all in one time you can simply go to Test Suites folder and choose Test Suite Collection then click execute
+To run this test all in one time you can simply go to Test Suites folder and choose Test Suite Collection then click execute on the toolbar
 
 ## Built With
 * [Katalon](https://katalon.com/) - Automated Testing Software
